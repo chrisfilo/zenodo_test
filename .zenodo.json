@@ -1,6 +1,5 @@
 {
-	"metadata": {
-		"creators": [{
+	"creators": [{
 			"affiliation": "Department of Psychology, Stanford University",
 			"name": "Gorgolewski, Krzysztof J.",
 			"orcid": "0000-0003-3321-7583"
@@ -17,5 +16,5 @@
 		"license": "Apache-2.0",
 		"title": "Title text.",
 		"upload_type": "software"
-	}
+
 }
